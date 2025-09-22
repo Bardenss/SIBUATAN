@@ -110,7 +110,7 @@ routes = {
     {"CP39 → CP40", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3940.lua")},
     {"CP40 → CP41", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4041.lua")},
     {"CP41 → CP42", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4142.lua")},
-    {"CP42 → CP43", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4143.lua")},
+    {"CP42 → CP43", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4243.lua")},
     {"CP43 → CP44", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4344.lua")},
     {"CP44 → CP45", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4445.lua")},
     {"CP45 → CP46", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4546.lua")},
