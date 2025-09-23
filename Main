@@ -272,7 +272,6 @@ local function runAllRoutes()
         setBypass(false)
 
         -- respawn + delay 5 detik sebelum ulang
-        if not isRunning then break end
         respawnPlayer()
         task.wait(5)
     end
@@ -421,7 +420,7 @@ local InfoTab = Window:Tab({
 -- Main Tab (Dropdown speed mulai dari 0.25x)
 -- ============================================================
 local speeds = {}
-for v = 0.25, 10, 0.25 do
+for v = 0.25, 100, 0.25 do
     table.insert(speeds, string.format("%.2fx", v))
 end
 MainTab:Dropdown({
